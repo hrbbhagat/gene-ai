@@ -2,7 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/7db65d86-0e35-4e27-80b8-da250c5656c4)
 
-
 Advanced AI assistant powered by Groq's lightning-fast LLMs with multi-domain knowledge and conversation analytics.
 
 ## Features
