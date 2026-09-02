@@ -161,6 +161,7 @@ where = ["app"]
 python_files = "test_*.py"
 testpaths = ["tests"]
 ```
+
 3. Initialize Git Repository
 bash
 # Initialize git
